@@ -2,8 +2,6 @@
 
 Current FSW Engineer student. Eagerly looking forward to the world of AI and machine learning.
 
-//![resilence](https://www.resilience.org/wp-content/uploads/2016/09/about-resilience-adaptive-cycle.jpg)
-
 <!--
 **Dequisa/Dequisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
